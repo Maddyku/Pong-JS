@@ -1,4 +1,4 @@
-Coded Retro Pong Game in Vanilla JavaScript to play in the Browser. Coded Along with MethMethMethod on Youtube. His tutorial can be found here (https://www.youtube.com/watch?v=ju09womACpQ).
+Coded Retro Pong Game in Vanilla JavaScript to play in the Browser. Coded Along with MethMethMethod's Youtube tutorial (https://www.youtube.com/watch?v=ju09womACpQ).
 
 To Play in the browser:
 
